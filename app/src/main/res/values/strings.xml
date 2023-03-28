@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bandage</string>
+    <string-array name="planets_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="base_url">https://0ff1-125-20-24-2.in.ngrok.io</string>
+    <string name="email_regex">^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$</string>
+    <string name="signup_btn">Register</string>
+</resources>
